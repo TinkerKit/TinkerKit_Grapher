@@ -1,0 +1,14 @@
+TinkerKit Grapher
+=================
+
+This application draws a realtime graph of signals
+read from the analog inputs of an Arduino board.
+
+The code is written in Processing and require Firmata running on the Arduino board.
+You'll find the code inside the Arduino IDE under Examples/Libraries/Firmata/Standard_Firmata
+
+
+Written by Massimo Banzi 
+
+v6 02.04.2012
+
